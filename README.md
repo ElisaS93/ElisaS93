@@ -6,7 +6,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently stydying to become Software Engineering
+- 🔭 I’m currently stydying Software Engineering
 - 🌱 I’m currently learning HTML & Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
